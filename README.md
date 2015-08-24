@@ -40,5 +40,5 @@ Mac에서 FaceTime 전화 알림이 뜨면 발신자의 정보를 Mac에서 알�
 2. 위의 아이콘 안보이게 하기를 적용한 경우: Activity Monitory를 실행하여 FaceTimeCallerInfo.app을 강제로 종료.
 
 ## 변경 기록
-2015-08-22 V0.1: 초기 버전
-2015-08-24 V0.2: OS X El Capitan (10.11) 에서 동작하도록 수정
+* 2015-08-22 V0.1: 초기 버전
+* 2015-08-24 V0.2: OS X El Capitan (10.11) 에서 동작하도록 수정
