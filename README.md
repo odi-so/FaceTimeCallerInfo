@@ -1,4 +1,4 @@
-# FaceTimeCallerInfo V0.2
+# FaceTimeCallerInfo V0.3
 Apple scripts to show the notification of the caller information  on your Mac when your Mac shows FaceTime call notification.
 
 Mac에서 FaceTime 전화 알림이 뜨면 발신자의 정보를 Mac에서 알림으로 보여줍니다. 
@@ -42,3 +42,4 @@ Mac에서 FaceTime 전화 알림이 뜨면 발신자의 정보를 Mac에서 알�
 ## 변경 기록
 * 2015-08-22 V0.1: 초기 버전
 * 2015-08-24 V0.2: OS X El Capitan (10.11) 에서 동작하도록 수정
+* 2015-11-13 V0.3: 후후 (http://whox2.com) 웹 서비스 중단으로 뭐야이번호 (http://moyaweb.com) 사용하도록 수정

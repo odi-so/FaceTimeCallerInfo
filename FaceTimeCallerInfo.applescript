@@ -27,7 +27,7 @@ tell application "System Events"
 										if phoneNumber is not equal to lastPhoneNumber then
 											set lastPhoneNumber to phoneNumber
 											
-											set result to (do shell script "curl \"http://www.whox2.com/view/result.jsp?hdCountryCd=82&phoneNo=" & phoneNumber & "\" | textutil -stdin -stdout -format html -convert txt -encoding UTF-8 | tr -s \"
+											set result to (do shell script "curl \"http://www.moyaweb.com/search_result.do?SCH_TEL_NO=" & phoneNumber & "\" | textutil -stdin -stdout -format html -convert txt -inputencoding UTF-8 -encoding UTF-8 | tr -s \"
 	 \" \" \"")
 											display notification result
 										end if
